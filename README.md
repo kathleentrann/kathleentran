@@ -25,13 +25,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Expo" width="26px" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" />
-<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/news/images/og/xcode-12-og.jpg" />
-<img align="left" alt="Android Studio " width="26px" src="https://camo.githubusercontent.com/18e1511deb27b78b345d86e5d952d1b6a4633c0ae4394b6f28ab40e315e1a9be/68747470733a2f2f6173736574732e6769746c61622d7374617469632e6e65742f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f31323930343433382f416e64726f69642d53747564696f2d332e332d312e706e67" />
+<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" />
+<img align="left" alt="Android Studio " width="26px" src="https://lh3.googleusercontent.com/proxy/OIebXyIiotBq25UFeFulWmZIUh0uO0CHE8DD0Qdsqh0N-xNiy_rJqiSfM3egFzxJcQRIZv5dB_8eR-Fp5P-mBCmC8lOuOa-gb36LJPOuZAItDawhR2jut5k2Jj7T" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
