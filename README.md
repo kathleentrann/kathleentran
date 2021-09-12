@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dotty/100/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/dotty/100/000000/github.png"/>][github]
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dotty/50/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/dotty/50/000000/github.png"/>][github]
 
 <br />
 
