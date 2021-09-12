@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dotty/35/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/dotty/35/000000/github.png"/>][github]
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dotty/40/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/dotty/40/000000/github.png"/>][github]
 
 <br />
 
@@ -49,7 +49,7 @@
 
 ---
 
-![Kathleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathleentrann&theme=dracula&show_icons=true)
+ <img align="center" alt="Kathleen Tran's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=kathleentrann&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 [github]: https://github.com/kathleentrann
 [linkedin]: https://www.linkedin.com/in/kathleentrann/
