@@ -1,6 +1,4 @@
-### Hi! I'm Kathleen Tran 🇺🇸 / 🇻🇳
-
-<br />
+## Hi! I'm Kathleen Tran 🇺🇸 / 🇻🇳
 
 ## I'm a Software Engineer, Kombucha Brewer, and House Plant Enthusiast!
 
@@ -53,7 +51,6 @@
 ---
 
 ![Kathleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathleentrann&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathleentrann&layout=compact&theme=dracula)]
 
 [github]: https://github.com/kathleentrann
 [linkedin]: https://www.linkedin.com/in/kathleentrann/
