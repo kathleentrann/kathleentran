@@ -7,7 +7,7 @@
 ## I'm a Developer, Kombucha Brewer, and House Plant Enthusiast!
 
 - 👩🏻 Pronouns: she/her
-- 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant!
+- 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant! </br>
   [ReMerge is an alternative to incarceration for high-risk, high-need moms with non-violent charges that restore mothers and families through a comprehensive diversion program of treatment, recovery, and hope.] ❤️
 - 🧠 Currently studying Data Structures & Algorithms & System Design 🌲
 - 🙌🏽 2021 Goals: Find my first opportunity as a software engineer and become friends with more developers ⌨️
