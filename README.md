@@ -4,7 +4,7 @@
 
 ## Hi! I'm Kathleen Tran 🇺🇸 / 🇻🇳
 
-## I'm a Software Engineer, Kombucha Brewer, and House Plant Enthusiast!
+## I'm a Developer, Kombucha Brewer, and House Plant Enthusiast!
 
 - 👩🏻 Pronouns: she/her
 - 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant! [ReMerge is an alternative to incarceration for high-risk, high-need moms with non-violent charges that restore mothers and families through a comprehensive diversion program of treatment, recovery, and hope.] ❤️
