@@ -10,7 +10,7 @@
 - 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant! </br>
   [ReMerge is an alternative to incarceration for moms with non-violent charges that restore mothers and families through a comprehensive diversion program of treatment, recovery, and hope.] ❤️
 - 🧠 Currently studying Data Structures & Algorithms & System Design 🌲
-- 🙌🏽 2021 Goals: Find my first opportunity as a software engineer and become friends with more developers ⌨️
+- 🙌🏽 2021 Goals: Find my first opportunity as a software engineer and network with more developers ⌨️
 - 💬 Ask me about: How to create a budget/credit advice! My former profession was as a Credit Advisor 💳
 - ⚡ Fun fact: I have a twin brother 👫🏻 and graduated as magna cum laude 📚
 
