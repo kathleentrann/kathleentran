@@ -1,3 +1,7 @@
+<!--
+**kathleentrann/kathleentran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ## Hi! I'm Kathleen Tran 🇺🇸 / 🇻🇳
 
 ## I'm a Software Engineer, Kombucha Brewer, and House Plant Enthusiast!
