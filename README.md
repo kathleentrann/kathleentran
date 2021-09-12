@@ -1,5 +1,5 @@
 <!--
-**kathleentrann/kathleentran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kathleentrann/kathleentrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ## Hi! I'm Kathleen Tran 🇺🇸 / 🇻🇳
@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dotty/40/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/dotty/40/000000/github.png"/>][github]
 
+<br />
 <br />
 
 ### Languages & Tools:
