@@ -8,9 +8,12 @@
 
 - 👩🏻 Pronouns: she/her
 - 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant! <details open>
-  <summary>Remerge </summary>
+  <summary>Remerge</summary>
+
 <!--START_SECTION:activity-->
+
 ReMerge is an alternative to incarceration for moms with non-violent charges that restore mothers and families through a comprehensive diversion program of treatment, recovery, and hope. ❤️
+
 <!--END_SECTION:activity-->
 </details>
 
