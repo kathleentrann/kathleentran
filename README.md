@@ -7,7 +7,8 @@
 ## I'm a Developer, Kombucha Brewer, and House Plant Enthusiast!
 
 - 👩🏻 Pronouns: she/her
-- 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant! <details open>
+- 👩🏻‍💻 I'm currently volunteering at Remerge as a coding teaching assistant!
+<details open>
   <summary>Remerge</summary>
 
 <!--START_SECTION:activity-->
